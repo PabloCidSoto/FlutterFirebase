@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229301679838",
+    "project_id": "fir-patm",
+    "storage_bucket": "fir-patm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229301679838:android:0d246b79828d1d867b344f",
+        "android_client_info": {
+          "package_name": "com.example.practicafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229301679838-d65sr2ql1p4th4u6njel9sj52or22s49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUIZuBZG9YtfjWSZUlQJiPa0GBKy4te0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229301679838-d65sr2ql1p4th4u6njel9sj52or22s49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
